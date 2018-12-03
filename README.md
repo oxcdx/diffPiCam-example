@@ -4,7 +4,5 @@ Example openFrameworks app displaying the visual results  of frame differencing 
 Uses the following addons:
 
 ofxCv
-
 ofxOpenCv
-
 ofxOMXCamera
